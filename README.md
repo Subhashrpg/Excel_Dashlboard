@@ -15,7 +15,7 @@ Welcome to my **Excel Dashboards Showcase**! This repository features a collecti
   - Hospital and investigator performance.
 - **Key Techniques**: Data cleaning, Power Query, dynamic charts, and slicers.
 
-### 2. **IPL Team Statistics Dashboard**
+<!-- ### 2. **IPL Team Statistics Dashboard**
 - **Overview**: Comprehensive statistics on IPL matches, teams, and players.
 - **Features**:
   - Season-wise and overall performance metrics.
@@ -29,6 +29,7 @@ Welcome to my **Excel Dashboards Showcase**! This repository features a collecti
   - [Feature 1]
   - [Feature 2]
 - **Key Techniques**: [List advanced Excel techniques used.]
+-->
 
 ---
 
@@ -75,7 +76,7 @@ Welcome to my **Excel Dashboards Showcase**! This repository features a collecti
 ## 🔍 How to Use
 1. Clone this repository
 ```
-git clone https://github.com/YourUsername/Excel-Dashboards-Showcase.git
+git clone [https://github.com/Subhashrpg/Excel_Dashboards](https://github.com/Subhashrpg/Excel_Dashlboard.git)
 ```
 2. Navigate to the desired dashboard folder.
 3. Open the .xlsx file using Microsoft Excel.
@@ -87,8 +88,8 @@ I’m always looking to improve and add more value to this repository. Feel free
 - Fork the repository and contribute enhancements.
 
 ## 🤝 Connect with Me
-- LinkedIn: [Your LinkedIn Profile]
-- Portfolio: [Your Portfolio]
-- Email: [Your Email Address]
+- LinkedIn: [LinkedIn Profile](www.linkedin.com/in/subhash-singh-42933a19b)
+- Portfolio: [My Portfolio](https://subhashrpg.github.io/Portfolio_website/)
+- Email: [Subhash Rawat](subhashrs1997@gmail.com)
 
 Show your support by **⭐️** this repository if you find it helpful!
