@@ -79,7 +79,7 @@ Welcome to my **Excel Dashboards Showcase**! This repository features a collecti
 git clone [https://github.com/Subhashrpg/Excel_Dashboards](https://github.com/Subhashrpg/Excel_Dashlboard.git)
 ```
 2. Navigate to the desired dashboard folder.
-3. Open the .xlsx file using Microsoft Excel.
+3. Open the investigation dashboard folder and under it open the Raw_data.xlsx file using Microsoft Excel.
 4. Interact with slicers, charts, and visual elements for insights.
 
 ## 📢 Feedback & Contributions
