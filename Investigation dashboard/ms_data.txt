@@ -1,0 +1,51 @@
+Client/Policy Insights
+
+What is the count of claims filed by each insurer?
+How many cases were processed for each type of policy (e.g., Group, Retail)?
+What is the distribution of cases across clients (e.g., Medi Assist)?
+What is the total IO Cost per client or insurer?
+
+Case Performance Analysis
+
+What is the average TAT (Turnaround Time) across different types of cases?
+How many cases fall into each TAT category (e.g., 0-7 days, 15-30 days)?
+What is the percentage of positive vs. negative cases for each SPOC (Single Point of Contact)?
+What is the verification status breakdown (Positive/Negative)?
+
+Geographical Analysis
+
+Which cities or states have the highest number of claims filed?
+What is the state-wise or city-wise distribution of hospitals involved in cases?
+What are the top-performing IOs in each city or state?
+
+Hospital/IO Analysis
+
+Which hospitals have handled the highest number of cases?
+What is the average IO cost incurred per hospital?
+Which IO has managed the most cases overall or within a specific category (Network vs. Non-Network)?
+What are the stages of patients at different hospitals (e.g., Patient - Stage)?
+
+Financial Insights
+
+What is the total cost distribution (IO Cost + Extra Cost) per case type?
+What is the distribution of MRD fees across different cases?
+How does Total IO Cost vary for Network vs. Non-Network hospitals?
+
+Time-Based Analysis
+
+How many cases were initiated and closed each month?
+What is the trend in case closures over time (weekly/monthly)?
+What is the average case processing time (Case Initiation to Closure)?
+
+Other Analytical Opportunities
+
+What are the adjusted and unadjusted aging distributions?
+Which hospitals/IOs contribute to the highest adjusted aging cases?
+How does "Hospital Stage" affect the case outcomes?
+
+
+Data Cleaning: will verify data quality, handle missing values, and normalize columns as necessary.
+Data Transformation: Aggregate and group data for analysis.
+Key Metrics Selection: Focus on metrics for KPIs (e.g., TAT, cost, case closure trends).
+Dashboard Layout: Define the sections and visuals (charts, slicers, etc.) for the dashboard.
+Chart Creation: Build visuals like pivot charts, bar graphs, heat maps, and timelines.

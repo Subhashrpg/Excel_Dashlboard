@@ -1,0 +1,11 @@
+Data cleaning
+
+Columns to remove
+Case Amount As per Medi Sheet
+Negative Category
+Internal Remarks
+Case EDC	
+Old  EDC
+Rough Clients
+
+
